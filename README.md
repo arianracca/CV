@@ -1,17 +1,19 @@
-#ARIÁN RACCA
+# ARIÁN RACCA
 
 _Desarrollador FrontEnd_
 
-_Rosario (Arg) – (+549) 3413555676_  – [arianracca@gmail.com](mailto: arianracca@gmail.com)
+_Rosario (Arg) – (+549) 3413555676_ - [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)  – [arianracca@gmail.com](mailto: arianracca@gmail.com)
 
-_in:_ [/arianracca](https://www.linkedin.com/in/arian-racca-696440131/) – _GitHub:_ [/arianracca](https://github.com/arianracca)
+_in:_ [/arianracca](https://www.linkedin.com/in/arian-racca-696440131/) – _GitHub:_ [/arianracca](https://github.com/arianracca).
 
-**Intereses:**   Desarrollo Web | Inteligencia Artificial | Machine Learning | Desarrollo de videojuegos | aprender
+**Intereses:** Desarrollo Web | Inteligencia Artificial | Machine Learning | Desarrollo de videojuegos | aprender
 ---
 
 ## TITULO
 
-**PSICÓLOGO** graduado en la Facultad de Psicología de la Universidad Nacional de Rosario, finalizada con promedio 9.50 (Promedio más alto del año 2018).
+**PSICÓLOGO**
+Graduado en la Facultad de Psicología de la Universidad Nacional de Rosario.
+Promedio 9.50 / 10 (Promedio más alto del año 2018).
 ---
 
 ## PROGRAMACIÓN
