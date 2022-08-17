@@ -2,12 +2,12 @@
 
 _Desarrollador FrontEnd_
 
-_Rosario (Arg) – (+549) 3413555676_ - [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676)  – [arianracca@gmail.com](mailto: arianracca@gmail.com)
+_Rosario (Arg) – (+549) 3413555676_ - [Whatsapp](https://api.whatsapp.com/send?phone=5493413555676) – [arianracca@gmail.com]
 
-_in:_ [/arianracca](https://www.linkedin.com/in/arian-racca-696440131/) – _GitHub:_ [/arianracca](https://github.com/arianracca).
+_Linkedin:_ [/arianracca](https://www.linkedin.com/in/arian-racca-696440131/) – _GitHub:_ [/arianracca](https://github.com/arianracca).
 
 **Intereses:** Desarrollo Web | Inteligencia Artificial | Machine Learning | Desarrollo de videojuegos | aprender
----
+
 
 ## TITULO
 
