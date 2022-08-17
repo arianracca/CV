@@ -67,5 +67,5 @@ Graphic Designer. Viure a la Costa magazine (Barcelona – Spain) between 2006 �
 
 ## LANGUAGES
 - Spanish - Native.
-- Inglés - Proficient C2 - [Certificado](https://www.efset.org/cert/StkhLS).
+- Inglés - Proficient C2 - [Certification](https://www.efset.org/cert/StkhLS).
 - Italian - Intermediate B1.
