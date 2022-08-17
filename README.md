@@ -12,8 +12,8 @@ _Linkedin:_ [/arianracca](https://www.linkedin.com/in/arian-racca-696440131/) �
 ## TITULO
 
 **PSICÓLOGO**
-Graduado en la Facultad de Psicología de la Universidad Nacional de Rosario.
-Promedio 9.50 / 10 (Promedio más alto del año 2018).
+- Graduado en la Facultad de Psicología de la Universidad Nacional de Rosario.
+_Promedio 9.50 / 10 (Mejor promedio 2018)_.
 ---
 
 ## PROGRAMACIÓN
@@ -35,21 +35,21 @@ Rapidez en aprendizaje | Trabajo en equipo y buena comunicación | Flexibilidad 
 Curso de **INTRODUCCIÓN A JAVA**, completado en agosto de 2022 en [Edutin.com](https://edutin.com/introduccion-a-java).
 
 Curso de **INTRODUCCIÓN A LA PROGRAMACIÓN Y DESARROLLO DE SOFTWARE** a cargo del
-Programador y Desarrollador [Diego Cambiaso](https://pixelcoblog.com/) con 250hs de cursado.
+Programador y Desarrollador [Diego Cambiaso](https://pixelcoblog.com/) con 250hs de cursado. Completado en junio de 2022.
 
 En curso de formación en **PYTHON** a cargo del Programador y Desarrollador [Diego Cambiaso](https://pixelcoblog.com/).
 
-**FRONT-END DEVELOPER**
+**DESARROLLADOR FRONT-END**
 
-Curso de formación de **RESPONSIVE WEB DESIGN** en freeCodeCamp con una carga horaria de 300hs. [Certificado](https://www.freecodecamp.org/certification/Eldanesh/responsive-web-design).
+Curso de formación de **RESPONSIVE WEB DESIGN** en freeCodeCamp con una carga horaria de 300hs. [Certificado](https://www.freecodecamp.org/certification/Eldanesh/responsive-web-design). Completado en julio de 2022.
 
 En curso de formación en **JAVASCRIPT ALGORITHMS AND DATA STRUCTURES** en freeCodeCamp.
 
 Uso de **CMS de Wordpress** y **CMS de Dynadot**.
 
-Construcción de la web [Entre-dos](https://entredoscom.wordpress.com/acerca-del-webmaster/) con _CMS de Wordpress_(Webmaster Password: Web&Dev1630).
+Desarrollo y mantenimiento de la web de [Entre-dos](https://entredoscom.wordpress.com/acerca-del-webmaster/) con _CMS de Wordpress_ (Webmaster Password: Web&Dev1630).
 
-Desarrollo de la página de la revista digital [La Plaza AT](https://www.laplazat.com/webmaster) con _CMS de Dynadot_.
+Desarrollo y mantenimiento de la página de la revista digital [La Plaza AT](https://www.laplazat.com/webmaster) con _CMS de Dynadot_.
 
 ## BLOGGER
 
