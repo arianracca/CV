@@ -39,11 +39,23 @@ _by [Diego Cambiaso](https://pixelcoblog.com/) Programmer and Developer_. Course
 
 Studying **PYTHON** with _[Diego Cambiaso](https://pixelcoblog.com/) Programmer and Developer_.
 
+**PYTHON BASICS**, [Platzi](https://platzi.com/p/arianracca/).
+
+**INTRODUCTION TO BACKEND DEVELOPMENT**, [Platzi](https://platzi.com/p/arianracca/).
+
+**OBJECT ORIENTATED PROGRAMATION: OOP**, [Platzi](https://platzi.com/p/arianracca/).
+
+**GIT & GITHUB**, profesional course, [Platzi](https://platzi.com/p/arianracca/)
+
+**INTRODUCTION TO JAVA SE**, [Platzi](https://platzi.com/p/arianracca/).
+
 **FRONT-END DEVELOPER**
 
 **RESPONSIVE WEB DESIGN**. Course of freeCodeCamp with 300 hours of coursework completed on July 2022. [Certification](https://www.freecodecamp.org/certification/Eldanesh/responsive-web-design).
 
-Studying **JAVASCRIPT ALGORITHMS AND DATA STRUCTURES** at freeCodeCamp.
+**JAVASCRIPT: BASICS TO ADVANCED STEP BY STEP 2022**, [Udemy](https://www.udemy.com/course/javascript-basics-to-advanced/).
+
+Studying **JAVASCRIPT ALGORITHMS AND DATA STRUCTURES**, freeCodeCamp.
 
 Use of **Wordpress CMS** and **Dynadot CMS**.
 
