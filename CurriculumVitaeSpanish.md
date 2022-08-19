@@ -32,16 +32,29 @@ Rapidez en aprendizaje | Trabajo en equipo y buena comunicación | Flexibilidad 
 
 **FORMACION Y EXPERIENCIA**
 
-Curso de **INTRODUCCIÓN A JAVA**, completado en agosto de 2022 en [Edutin.com](https://edutin.com/introduccion-a-java).
+Curso de **INTRODUCCIÓN A JAVA**, completado en agosto de 2022 en [Edutin](https://edutin.com/introduccion-a-java).
 
 Curso de **INTRODUCCIÓN A LA PROGRAMACIÓN Y DESARROLLO DE SOFTWARE** a cargo del
 Programador y Desarrollador [Diego Cambiaso](https://pixelcoblog.com/) con 250hs de cursado. Completado en junio de 2022.
 
 En curso de formación en **PYTHON** a cargo del Programador y Desarrollador [Diego Cambiaso](https://pixelcoblog.com/).
 
+Curso **BÁSICO DE PYTHON**, [Platzi](https://platzi.com/p/arianracca/).
+
+Curso de **INTRODUCCIÓN AL DESARROLLO BACKEND**, [Platzi](https://platzi.com/p/arianracca/).
+
+Curso de **PROGRAMACIÓN ORIENTADA A OBJETOS: POO**, [Platzi](https://platzi.com/p/arianracca/).
+
+Curso Profesional de **GIT Y GITHUB**, [Platzi](https://platzi.com/p/arianracca/)
+
+Curso de Curso de **INTRODUCCIÓN A JAVA SE**, [Platzi](https://platzi.com/p/arianracca/).
+
+
 **DESARROLLADOR FRONT-END**
 
 Curso de formación de **RESPONSIVE WEB DESIGN** en freeCodeCamp con una carga horaria de 300hs. [Certificado](https://www.freecodecamp.org/certification/Eldanesh/responsive-web-design). Completado en julio de 2022.
+
+Curso **JAVASCRIPT: BASICS TO ADVANCED STEP BY STEP 2022**, [Udemy](https://www.udemy.com/course/javascript-basics-to-advanced/).
 
 En curso de formación en **JAVASCRIPT ALGORITHMS AND DATA STRUCTURES** en freeCodeCamp.
 
