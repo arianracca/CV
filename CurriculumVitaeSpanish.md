@@ -47,7 +47,7 @@ Curso de **PROGRAMACIÓN ORIENTADA A OBJETOS: POO**, [Platzi](https://platzi.com
 
 Curso Profesional de **GIT Y GITHUB**, [Platzi](https://platzi.com/p/arianracca/)
 
-Curso de Curso de **INTRODUCCIÓN A JAVA SE**, [Platzi](https://platzi.com/p/arianracca/).
+Curso de **INTRODUCCIÓN A JAVA SE**, [Platzi](https://platzi.com/p/arianracca/).
 
 
 **DESARROLLADOR FRONT-END**
